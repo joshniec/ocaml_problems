@@ -5,15 +5,15 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github joshniec/ocaml_problems))
 
-(authors "Author Name")
+(authors "Josh Niec")
 
-(maintainers "Maintainer Name")
+(maintainers "Josh Niec <josh@niec.us>")
 
-(license LICENSE)
+(license MIT)
 
-(documentation https://url/to/documentation)
+(documentation https://github.com/joshniec/ocaml_problems)
 
 (package
  (name ocaml_problems)
